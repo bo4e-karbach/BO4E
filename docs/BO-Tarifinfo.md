@@ -20,6 +20,10 @@
         <td>Name des Tarifs</td>
     </tr>
     <tr>
+        <td>anbietername</td>
+        <td>Der Name des Marktpartners, der den Tarif anbietet</td>
+    </tr>
+    <tr>
         <td>sparte</td>
         <td>Strom oder Gas, etc.. Siehe <a href="https://www.bo4e.de/dokumentation/enumerations/enum-sparte">ENUM Sparte</a></td>
     </tr>
